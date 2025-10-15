@@ -23,7 +23,7 @@
 
 
 
-<img src="/Users/zhou/Desktop/Fintech/CS277/final_project/img/task.png" alt="image-20251015210549937" style="zoom:50%;" />
+<img src="img/task.png" alt="image-20251015210549937" style="zoom:50%;" />
 
 
 
